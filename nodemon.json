@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "Vicky",
+        "MONGO_PASSWORD": "fallen906",
+        "MONGO_DEFAULT_DATABASE": "CartIT"
+    }
+}
+
