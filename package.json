@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A simple E-commerce website",
   "main": "app.js",
+  "engines":{
+    "node": "14.15.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "NODE_ENV=production MONGO_USER=Vicky MONGO_PASSWORD=fallen906 MONGO_DEFAULT_DATABASE=CartIT node app.js",
